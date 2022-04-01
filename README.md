@@ -14,6 +14,7 @@ Welcome to my profile! 🎉
 - ⚡ Fun fact: ...
 -->
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FESWZY%2FESWZY&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=viewer+hits&edge_flat=false)](https://github.com/ESWZY)
 [![](https://komarev.com/ghpvc/?username=ESWZY&color=blue)](https://github.com/ESWZY)
 [![https://t.me/eswzy](https://img.shields.io/badge/Telegram-ESWZY-blue.svg?logo=telegram)](https://t.me/eswzy)
 [![Twitter URL](https://img.shields.io/badge/Twitter-eswzy-blue.svg?logo=twitter)](https://twitter.com/eswzy)
