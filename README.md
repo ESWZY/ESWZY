@@ -28,6 +28,6 @@ Welcome to my profile! 🎉
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ESWZY&show_icons=true&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=eswzy)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=eswzy&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 Follow me please! <img src="https://media.giphy.com/media/l41JUepQ8rqpnI5ZS/giphy.gif" width="20px">
